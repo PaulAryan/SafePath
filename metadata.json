@@ -1,0 +1,5 @@
+{
+  "name": "SafePath: Secure Route Planner",
+  "description": "A real-time navigation app that prioritizes user safety by analyzing street lighting, crime data, and emergency accessibility using OpenStreetMap.",
+  "requestFramePermissions": ["geolocation", "microphone"]
+}
